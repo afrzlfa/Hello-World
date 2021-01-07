@@ -6,7 +6,7 @@ class helloworld
     public function main()
     {
     
-        echo "Hello World!";
+        echo "Hello World!\n";
         
     }
 
